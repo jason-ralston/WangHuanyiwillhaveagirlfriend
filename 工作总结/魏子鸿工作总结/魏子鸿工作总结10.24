@@ -1,0 +1,5 @@
+今天下载安装并调试了jupyter notebook笔记本以及安装了tensorsflow框架和一个简单的二分类数据集imdb。
+在csdn上找到了一个电影评论二分类问题的模型作为dl入门使用的模型。网址如下：
+https://blog.csdn.net/Einstellung/article/details/82683652
+考虑在今天以及明天能够尝试跑一下这个模型，观测到结果。
+下一步会去了解一下cnn模型以及双向lstm。
